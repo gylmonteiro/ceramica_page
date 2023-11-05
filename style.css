@@ -1,0 +1,41 @@
+body {
+    background-color: #; /* Cor "branco gelo" em formato hexadecimal */
+}
+.imagem-container {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.contato-whatsapp-container-img {
+    width: 25%;
+    height: 25%;
+    
+    object-fit: contain;
+}
+
+.container-zap {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}
+
+.image-itens {
+    width: 100%;
+    height: 100%;
+    
+    object-fit: contain;
+}
+
+.logo_zap {
+    width: 25%;
+    height: 25%;
+    
+    object-fit: contain;
+}
+
+.centralizdo {
+    margin: 0 auto
+}
